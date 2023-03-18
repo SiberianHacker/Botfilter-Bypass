@@ -1,2 +1,4 @@
 # Botfilter-Bypass
-Mineflayer bot with bf bypass
+[Mineflayer bot with bf bypass]
+Для начала нужно установить node.js и зависимости которые указаны в js скрипте,
+ну и можно юзать впрынцыпе, потом ещё ботов разных накидаю.
